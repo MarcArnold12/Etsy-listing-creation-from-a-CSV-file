@@ -1,3 +1,18 @@
+# Etsy Listing Automation Script
+
+This script automates the creation of Etsy listings using a CSV file and Etsy's Open API v3.
+
+## Installation
+
+### Prerequisites
+- Python 3.x
+- `requests` library
+
+### Install Requests Library
+```bash
+pip install requests
+
+
 Configuration
 Etsy API Credentials:
 
